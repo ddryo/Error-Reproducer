@@ -1,0 +1,16 @@
+/* Block Guide */
+[data-type="test-blocks/test1"] {
+	padding: 8px;
+	border: double 3px #709bdb;
+}
+
+[data-type="test-blocks/test2"] {
+	padding: 8px;
+	border: dashed 2px #d3947b;
+}
+
+[data-type="test-blocks/test1-item"],
+[data-type="test-blocks/test2-item"] {
+	padding: 8px;
+	border: solid 1px rgba(0, 0, 0, .1);
+}

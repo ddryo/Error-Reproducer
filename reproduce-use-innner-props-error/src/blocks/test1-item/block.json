@@ -1,0 +1,12 @@
+{
+    "apiVersion": 2,
+    "name": "test-blocks/test1-item",
+    "title": "TEST-01 Item",
+    "icon": "wordpress",
+    "category": "text",
+    "parent": [
+        "test-blocks/test1"
+    ],
+    "attributes": {},
+    "editorScript": "file:../../../dist/blocks/test1-item/index.js"
+}
