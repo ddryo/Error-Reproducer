@@ -1,3 +1,6 @@
+
+See the issue: https://github.com/WordPress/gutenberg/issues/30408
+
 # Reproduce useInnerBlocksProps error
 
 This plugin adds blocks to reproduce the errors related to `useInnerBlocksProps()` (__experimentalUseInnerBlocksProps).
