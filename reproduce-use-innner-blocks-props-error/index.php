@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Reproduce useInnerProps error
- * Description: Plugin to reproduce the useInnerProps error.
+ * Plugin Name: Reproduce useInnerBlocksProps error
+ * Description: Plugin to reproduce the useInnerBlocksProps error.
  * Version: 1.0
  * License: GPL2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
