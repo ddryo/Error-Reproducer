@@ -1,0 +1,22 @@
+{
+    "apiVersion": 2,
+    "name": "test-blocks/test",
+    "title": "TEST",
+    "icon": "wordpress",
+    "category": "text",
+    "attributes": {
+        "mediaId": {
+            "type": "number",
+            "default": 0
+        },
+        "mediaUrl": {
+            "type": "string",
+            "default": ""
+        },
+        "mediaType": {
+            "type": "string",
+            "default": "image & video"
+        }
+    },
+    "editorScript": "file:../../../dist/blocks/test/index.js"
+}

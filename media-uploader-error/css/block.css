@@ -1,0 +1,7 @@
+/* Block Guide */
+[data-type="test-blocks/test"] {
+	padding: 8px;
+	border: solid 3px #709bdb;
+	font-size: 15px;
+	text-align: left;
+}
